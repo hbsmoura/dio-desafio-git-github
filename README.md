@@ -4,3 +4,5 @@
 As linhas inicias (incluindo esta) foram inseridas e commitadas via repositório no Github
 
 Essa linha foi inserida localmente e commmitada via git bash
+
+Essa linha foi inserida localmente e commmitada via Github Desktop
